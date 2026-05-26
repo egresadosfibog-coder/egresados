@@ -1,0 +1,6 @@
+{
+  "name": "Plan de Acción de Egresados 2026 - Facultad de Ingeniería UNAL",
+  "description": "Landing page interactiva del plan de acción 2026 del programa de egresados de la Facultad de Ingeniería de la Universidad Nacional de Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
